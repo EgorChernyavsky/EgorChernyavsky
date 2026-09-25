@@ -1,7 +1,8 @@
 [![Header](https://github.com/EgorChernyavsky/EgorChernyavsky/blob/main/assets/header.jpg)](https://t.me/EgorChernyavsky)
 
 ## I'm a Manual QA Engineer
-
+## MY CV
+[Link to my CV](https://docs.google.com/document/d/1Zt21d0bhS2kMpC9Motcfw7VALd_emnF0odEf_C_G3pI/edit?usp=sharing)
 ### Tools
 ![Postman](https://img.shields.io/badge/-Postman-060606?style=for-the-badge&logo=Postman&logoColor=FF6F00)
 ![Swagger_UI](https://img.shields.io/badge/-Swagger_UI-060606?style=for-the-badge&logo=Swagger&logoColor=4CAF50)
