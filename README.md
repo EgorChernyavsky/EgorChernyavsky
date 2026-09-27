@@ -1,5 +1,3 @@
-## Привет, меня зовут Егор!
-
 [![Header](https://github.com/EgorChernyavsky/EgorChernyavsky/blob/main/assets/header.jpg)](https://t.me/EgorChernyavsky)
 
 ## Я QA Manual Engineer, специализируюсь на веб-, мобильном и API тестировании. Создаю и веду тестовую документацию, пишу баг-репорты.
