@@ -1,9 +1,12 @@
 [![Header](https://github.com/EgorChernyavsky/EgorChernyavsky/blob/main/assets/header.jpg)](https://t.me/EgorChernyavsky)
 
-## Я QA Manual Engineer, специализируюсь на веб-, мобильном и API тестировании. Создаю и веду тестовую документацию, пишу баг-репорты.
-## MY CV
-[Link to my CV](https://docs.google.com/document/d/1Zt21d0bhS2kMpC9Motcfw7VALd_emnF0odEf_C_G3pI/edit?usp=sharing)
-### Tools
+## Я специалист по ручному тестированию (Web, Mobile, API). Создаю тестовую документацию и помогаю выпускать надежные продукты.
+
+## [Резюме](https://docs.google.com/document/d/1Zt21d0bhS2kMpC9Motcfw7VALd_emnF0odEf_C_G3pI/edit?usp=sharing)
+
+## [Портфолио](https://github.com/EgorChernyavsky/QA-Portfolio.git)
+
+### Инструменты
 ![Postman](https://img.shields.io/badge/-Postman-060606?style=for-the-badge&logo=Postman&logoColor=FF6F00)
 ![Swagger_UI](https://img.shields.io/badge/-Swagger_UI-060606?style=for-the-badge&logo=Swagger&logoColor=4CAF50)
 ![Chrome_DevTools](https://img.shields.io/badge/-Chrome_DevTools-060606?style=for-the-badge&logo=Google&logoColor=2196F3)
@@ -22,6 +25,4 @@
 ![Kibana](https://img.shields.io/badge/-Kibana-060606?style=for-the-badge&logo=Kibana&logoColor=8BC34A)
 ![Grafana](https://img.shields.io/badge/-Grafana-060606?style=for-the-badge&logo=Grafana&logoColor=FF5722)
 
-#### Foolow Me 
-[![Telegram](https://img.shields.io/badge/-Telegram-060606?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/EgorChernyavsky)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-060606?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.ru/7eegor)
+### Социальные сети: [![Telegram](https://img.shields.io/badge/-Telegram-0E80C0?style=flat&logo=Telegram&logoColor=D7E1E7)](https://t.me/EgorChernyavsky) [![Vkontakte](https://img.shields.io/badge/-Vkontakte-4F7DB3?style=rounded&logo=VK&logoColor=D7E1E7)](https://vk.ru/7eegor)
