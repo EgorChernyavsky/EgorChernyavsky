@@ -2,9 +2,9 @@
 
 ## Я специалист по ручному тестированию (Web, Mobile, API). Создаю тестовую документацию и помогаю выпускать надежные продукты.
 
-## [Резюме](https://docs.google.com/document/d/1Zt21d0bhS2kMpC9Motcfw7VALd_emnF0odEf_C_G3pI/edit?usp=sharing)
+### [Резюме](https://docs.google.com/document/d/1Zt21d0bhS2kMpC9Motcfw7VALd_emnF0odEf_C_G3pI/edit?usp=sharing)
 
-## [Портфолио](https://github.com/EgorChernyavsky/QA-Portfolio.git)
+### [Портфолио](https://github.com/EgorChernyavsky/QA-Portfolio.git)
 
 ### Инструменты
 ![Postman](https://img.shields.io/badge/-Postman-060606?style=for-the-badge&logo=Postman&logoColor=FF6F00)
